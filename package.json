@@ -1,0 +1,39 @@
+{
+  "name": "auto-web",
+  "version": "1.0.0",
+  "description": "Auto generate static pages",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "del": "~1.2.1",
+    "gulp": "~3.9.0",
+    "gulp-autoprefixer": "~2.3.1",
+    "gulp-cache": "~0.3.0",
+    "gulp-coffee": "~2.3.1",
+    "gulp-concat": "~2.6.0",
+    "gulp-imagemin": "~2.3.0",
+    "gulp-jade": "~1.1.0",
+    "gulp-jshint": "~1.11.2",
+    "gulp-livereload": "~3.8.0",
+    "gulp-minify-css": "~1.2.1",
+    "gulp-notify": "~2.2.0",
+    "gulp-rename": "~1.2.2",
+    "gulp-ruby-sass": "~1.4.0",
+    "gulp-sass": "~2.0.4",
+    "gulp-uglify": "~1.4.0",
+    "marked": "~0.3.5",
+    "jstransformer-marked": "~1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awesomes-cn/auto-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awesomes-cn/auto-web/issues"
+  },
+  "homepage": "https://github.com/awesomes-cn/auto-web#readme"
+}
